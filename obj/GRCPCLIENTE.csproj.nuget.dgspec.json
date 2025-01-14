@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\nexar\\source\\repos\\GRCPCLIENTE\\GRCPCLIENTE.csproj": {}
+    "C:\\Users\\nexar\\source\\repos\\GRPC-CLIENTE\\GRPC-CLIENTE.csproj": {}
   },
   "projects": {
-    "C:\\Users\\nexar\\source\\repos\\GRCPCLIENTE\\GRCPCLIENTE.csproj": {
+    "C:\\Users\\nexar\\source\\repos\\GRPC-CLIENTE\\GRPC-CLIENTE.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nexar\\source\\repos\\GRCPCLIENTE\\GRCPCLIENTE.csproj",
-        "projectName": "GRCPCLIENTE",
-        "projectPath": "C:\\Users\\nexar\\source\\repos\\GRCPCLIENTE\\GRCPCLIENTE.csproj",
+        "projectUniqueName": "C:\\Users\\nexar\\source\\repos\\GRPC-CLIENTE\\GRPC-CLIENTE.csproj",
+        "projectName": "GRPC-CLIENTE",
+        "projectPath": "C:\\Users\\nexar\\source\\repos\\GRPC-CLIENTE\\GRPC-CLIENTE.csproj",
         "packagesPath": "C:\\Users\\nexar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nexar\\source\\repos\\GRCPCLIENTE\\obj\\",
+        "outputPath": "C:\\Users\\nexar\\source\\repos\\GRPC-CLIENTE\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
